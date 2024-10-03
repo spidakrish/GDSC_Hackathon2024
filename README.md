@@ -1,11 +1,14 @@
 
-# GPT-3.5 Terminal Chatbot
+# R.E.A.C.T. terminal AI Bot
 
-This repository contains a simple terminal-based chatbot powered by OpenAI's GPT-3.5. The assistant can respond to a variety of user inputs and provide helpful information based on natural language queries.
+This repository has the access to the main.py file which would be used by the developer to work upon to further enhance the AI model or hardcode in some parameters.
+
+
+
 
 ## Features
 
-- Interact with OpenAI's GPT-3.5 model directly from the terminal.
+- Interact with OpenAI's GPT-4 model directly from the UI.
 - Conversational AI that can handle various questions and requests.
 - Easy-to-use command-line interface.
 - Ability to exit the chatbot by typing "exit" or "quit."
@@ -15,7 +18,7 @@ This repository contains a simple terminal-based chatbot powered by OpenAI's GPT
 Before you begin, ensure you have the following installed:
 
 - Python 3.7 or later.
-- An OpenAI API key. You can sign up for an API key [here](https://beta.openai.com/signup/).
+- An OpenAI API key. You can sign up for an API key [here](https://beta.openai.com/signup/). [This will be provided by the Govt or Investors]
 
 ## Installation
 
@@ -116,7 +119,6 @@ This key is necessary to authenticate your requests to the OpenAI API. Do **not*
 
 ## Future Enhancements
 
-- Add support for switching between different GPT models (e.g., GPT-3.5 and GPT-4).
 - Implement error logging for better troubleshooting.
 - Add a web interface using Flask or Django for more user-friendly interaction.
 - Improve handling of different input formats, like voice commands or file uploads.
